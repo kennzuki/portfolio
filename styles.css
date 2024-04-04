@@ -65,7 +65,7 @@ background: #0F172A;
     width: 50%;
     padding-bottom: 6px;
  }
- img{
+ .image img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -128,6 +128,49 @@ background: #0F172A;
     flex-direction: row;
     place-items: center; 
     gap: 0.3rem;
+ }
+ .projects h1{
+    text-align: center;
+ }
+ .projects h1:hover{
+    color: #10B981;
+ }
+ .projects{
+    border-bottom: 1px solid;
+    padding-bottom: 24px;
+ }
+
+ .projects article {
+  text-align: center;
+   background-color: #334155;
+   padding: 4px;
+   
+ }
+ .projects button{
+  text-align: center;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem; 
+  padding-left: 0.75rem;
+  padding-right: 0.75rem; 
+ }
+ .projects button:hover{
+background-color: #10B981;
+color: white;
+ }
+ .projects article img{
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+ 
+ }
+ .my-work {
+    background-color: #10B981;
+    color: white;
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem; 
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+    border-radius: 0.25rem; 
  }
 
     
