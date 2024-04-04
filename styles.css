@@ -59,6 +59,15 @@ background: #0F172A;
    text-align: center;
  }
 
+ .about h1{
+    font-size: 1.5rem;
+    line-height: 2rem; 
+    font-weight: 700; 
+ }
+ .about ul{
+    list-style: decimal;
+ }
+
     
 @media (min-width: 640px) 
 {
