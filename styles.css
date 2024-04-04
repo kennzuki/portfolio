@@ -82,7 +82,12 @@ background: #0F172A;
     border-radius: 5%;
  }
  .technologies li {
-    list-style: circle;
+    list-style: none;
+ }
+
+ .tech-list{
+    text-align: center;
+    font-size: large;
  }
 
  .experience{
