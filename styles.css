@@ -1,0 +1,21 @@
+body{
+color: #ffffff; 
+background: #0F172A;
+}
+
+.nav {
+    padding: 1.5rem; 
+    color: #ffffff; 
+    border-bottom-width: 1px; 
+    border-color: #9CA3AF; 
+    gap: 1rem; 
+    }
+
+    
+@media (min-width: 640px) 
+{
+    nav{ 
+    display: flex; 
+  justify-content: space-between; 
+   }
+}
