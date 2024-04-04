@@ -40,6 +40,12 @@ background: #0F172A;
     color: #34D399; 
     margin: auto;
  }
+ .hero p:last-child{
+    color: #34D399; 
+    margin: auto;
+    font-style: italic;
+    text-align: center;
+ }
  .hero h1{
     font-size: 1.875rem;
     line-height: 2.25rem; 
