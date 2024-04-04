@@ -85,6 +85,15 @@ background: #0F172A;
     list-style: circle;
  }
 
+ .experience{
+    text-align: center;
+   
+ }
+ .experience li{
+    list-style: none;
+   
+ }
+
     
 @media (min-width: 640px) 
 {
