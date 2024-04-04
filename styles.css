@@ -81,6 +81,9 @@ background: #0F172A;
     padding: 4px;
     border-radius: 5%;
  }
+ .technologies li {
+    list-style: circle;
+ }
 
     
 @media (min-width: 640px) 
